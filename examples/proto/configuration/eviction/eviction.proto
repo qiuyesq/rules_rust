@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package eviction;
+
+enum CacheReplacementPolicy {
+  UNKNOWN = 0;
+  FIRST_IN_FIRST_OUT = 1;
+  LEAST_RECENTLY_USED = 2;
+  RANDOM_REPLACEMENT = 3;
+}

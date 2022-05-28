@@ -1,0 +1,18 @@
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/typenum-eba9811536b7659f.rmeta: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/op.rs /Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/consts.rs
+
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/typenum-eba9811536b7659f.d: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/op.rs /Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/consts.rs
+
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/op.rs:
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/build/typenum-f652251080214f38/out/op.rs

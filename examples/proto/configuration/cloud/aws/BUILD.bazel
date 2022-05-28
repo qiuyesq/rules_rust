@@ -1,0 +1,15 @@
+package(default_visibility = ["//visibility:public"])
+
+load("@rules_proto//proto:defs.bzl", "proto_library")
+load("@rules_rust//proto:proto.bzl", "rust_proto_library")
+
+proto_library(
+    name = "aws_proto",
+    srcs = ["aws.proto"],
+    deps = ["//proto/configuration/http:http_proto"],
+ )
+
+rust_proto_library(
+    name = "aws_rust_proto",
+    deps = [":aws_proto"],
+)

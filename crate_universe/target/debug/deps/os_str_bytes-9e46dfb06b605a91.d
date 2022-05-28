@@ -1,0 +1,11 @@
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/os_str_bytes-9e46dfb06b605a91.rmeta: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs
+
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/os_str_bytes-9e46dfb06b605a91.d: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs
+
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/lib.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/mod.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/util.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/common/raw.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/iter.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/pattern.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/os_str_bytes-6.0.0/src/raw_str.rs:

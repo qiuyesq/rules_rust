@@ -1,0 +1,11 @@
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/textwrap-9d511f413dc8ce96.rmeta: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/indentation.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_separators.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_splitters.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms/optimal_fit.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/core.rs
+
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/textwrap-9d511f413dc8ce96.d: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/indentation.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_separators.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_splitters.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms/optimal_fit.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/core.rs
+
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/lib.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/indentation.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_separators.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/word_splitters.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/wrap_algorithms/optimal_fit.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.15.0/src/core.rs:

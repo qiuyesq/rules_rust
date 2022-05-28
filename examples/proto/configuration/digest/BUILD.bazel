@@ -1,0 +1,18 @@
+package(default_visibility = ["//visibility:public"])
+
+load("@rules_proto//proto:defs.bzl", "proto_library")
+load("@rules_rust//proto:proto.bzl", "rust_proto_library")
+
+proto_library(
+    name = "digest_proto",
+    srcs = ["digest.proto"],
+    deps = [
+        "//proto/configuration/eviction:eviction_proto",
+        "@com_google_protobuf//:duration_proto",
+    ],
+)
+
+rust_proto_library(
+    name = "digest_rust_proto",
+    deps = [":digest_proto"],
+)

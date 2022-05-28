@@ -1,0 +1,15 @@
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/bstr-82f4a0175e6c447a.rmeta: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs
+
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/bstr-82f4a0175e6c447a.d: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs
+
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/lib.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ascii.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstr.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/bstring.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/mod.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/byteset/scalar.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_slice.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/ext_vec.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/impls.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/io.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/bstr-0.2.17/src/utf8.rs:

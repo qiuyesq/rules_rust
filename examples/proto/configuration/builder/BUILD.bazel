@@ -1,0 +1,15 @@
+package(default_visibility = ["//visibility:public"])
+
+load("@rules_proto//proto:defs.bzl", "proto_library")
+load("@rules_rust//proto:proto.bzl", "rust_proto_library")
+
+proto_library(
+    name = "builder_proto",
+    srcs = ["builder.proto"],
+    deps = ["//proto/configuration/grpc:grpc_proto"],
+ )
+
+rust_proto_library(
+    name = "builder_rust_proto",
+    deps = [":builder_proto"],
+)

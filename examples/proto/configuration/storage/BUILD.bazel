@@ -1,0 +1,21 @@
+package(default_visibility = ["//visibility:public"])
+
+load("@rules_proto//proto:defs.bzl", "proto_library")
+load("@rules_rust//proto:proto.bzl", "rust_proto_library")
+
+proto_library(
+    name = "storage_proto",
+    srcs = ["storage.proto"],
+    deps = [
+        "//proto/configuration/auth:auth_proto",
+        "//proto/configuration/blobstore:blobstore_proto",
+        "//proto/configuration/builder:builder_proto",
+        "//proto/configuration/global:global_proto",
+        "//proto/configuration/grpc:grpc_proto",
+        ],
+)
+
+rust_proto_library(
+    name = "storage_rust_proto",
+    deps = [":storage_proto"],
+)

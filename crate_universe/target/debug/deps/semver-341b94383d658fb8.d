@@ -1,0 +1,13 @@
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/semver-341b94383d658fb8.rmeta: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/backport.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/display.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/error.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/eval.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/identifier.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/impls.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/parse.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/serde.rs
+
+/Users/qiuye/Desktop/work/vscode/Rust/rules_rust/crate_universe/target/debug/deps/semver-341b94383d658fb8.d: /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/lib.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/backport.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/display.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/error.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/eval.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/identifier.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/impls.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/parse.rs /Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/serde.rs
+
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/lib.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/backport.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/display.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/error.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/eval.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/identifier.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/impls.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/parse.rs:
+/Users/qiuye/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.7/src/serde.rs:

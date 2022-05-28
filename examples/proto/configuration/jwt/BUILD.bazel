@@ -1,0 +1,15 @@
+package(default_visibility = ["//visibility:public"])
+
+load("@rules_proto//proto:defs.bzl", "proto_library")
+load("@rules_rust//proto:proto.bzl", "rust_proto_library")
+
+proto_library(
+    name = "jwt_proto",
+    srcs = ["jwt.proto"],
+    deps = ["//proto/configuration/eviction:eviction_proto"],
+ )
+
+rust_proto_library(
+    name = "jwt_rust_proto",
+    deps = [":jwt_proto"],
+)
